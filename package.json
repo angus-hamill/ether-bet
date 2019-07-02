@@ -1,0 +1,11 @@
+{
+  "name": "ether-bet",
+  "version": "1.0.0",
+  "description": "Closest to the value wins!",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC"
+}
